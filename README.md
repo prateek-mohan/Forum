@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project exists thanks to all the people who contribute!
 
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-<!-- This section will be automatically updated -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<a href="https://github.com/SpoucityFear/Forum/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SpoucityFear/Forum" />
+</a>
 
 ## 📊 Project Activity
 
